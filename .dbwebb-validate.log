@@ -1,0 +1,16 @@
+
+Check for installed tools.
+Updating chmod on file and dir.
+
+Testing Me-directory items.
+
+Validate me/kmom02.
+ *.html using HTMLHint.
+ *.js using JSHint.
+ *.py using Pylint.
+ *.cgi using Pylint.
+
+Publishing me/kmom02 to www/dbwebb-kurser/python.
+ me/kmom02: minify *.html uglify *.js minify *.css
+
+[0;30;42mOK[0m Tests: 4 Asserts: 15 Faults: 0
